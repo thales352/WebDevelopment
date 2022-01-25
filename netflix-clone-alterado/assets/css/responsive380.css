@@ -1,0 +1,19 @@
+:root{
+    font-size:smaller;
+}
+.info{
+flex-direction: row;
+}
+.info .descricao{
+    width: 100%;
+}
+.botoes{
+    display: flex;
+    flex-direction: column;
+}
+.botao{
+    margin-top: 10px;
+}
+.preview-box{
+    height: 175px;
+}

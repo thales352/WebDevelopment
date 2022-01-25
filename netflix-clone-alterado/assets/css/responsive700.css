@@ -1,0 +1,17 @@
+.botoes{
+    display: block;
+}
+.info .descricao{
+    width:90%
+}
+
+.botao{
+    margin:5px;
+    padding:5px;
+    height: 50px;
+    width: 40%;
+ }
+
+.preview-box{
+    height: 200px;
+}
